@@ -1,0 +1,18 @@
+index,Mã thông tin,Cách xử lý,Định dạng
+Date,Ngày tháng,Biến đổi lại ngày về đúng định dạng,Ngày tháng năm
+Year,Năm,Có thể xóa bớt đi,Năm
+Month,Tháng,Có thể xóa bớt đi,Tháng
+Customer Age,Tuổi của KH,,Số
+Customer Gender,Giới tính của KH,,Chữ
+Country,Quốc gia,,Chữ
+State,Bang,,Chữ
+Product Category,Phân loại sản phẩm,,Chữ
+Sub Category,Phân loại sản phẩm phụ,,Chữ
+Quantity,Số lượng,,Số
+Unit Cost,Chi phí sản phẩm,,Số
+Unit Price,Giá bán sản phẩm,,Số (Đơn vị tiền: Đô Mỹ)
+Cost,Tổng chi phí,Kiểm tra và sử dụng lại công thức tính = Unit cost * num of item,Số (Đơn vị tiền: Đô Mỹ)
+Revenue,Doanh thu,Kiểm tra và sử dụng lại công thức tính = Unit price * num of item,Số (Đơn vị tiền: Đô Mỹ)
+Profit,Lợi nhuận,Trường thêm vào và tính toán công thức = Revenue - Cost,Số (Đơn vị tiền: Đô Mỹ)
+Profit Margin,Biên lợi nhuận,Trường thêm vào và tính toán công thức = Profit/Revenue,Phần trăm
+AOV,Giá trị trung bình đơn,Trường thêm vào và tính toán công thức = Revenue/Order,Số (Đơn vị tiền: Đô Mỹ)

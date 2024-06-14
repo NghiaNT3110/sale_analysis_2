@@ -7,6 +7,7 @@ Transformed Dataset Link (After transform): [Dataset Link](https://docs.google.c
 Dashboard Link: [Looker Studio Dashboard Link](https://lookerstudio.google.com/u/0/reporting/7126c72d-bc91-4c1e-a7ec-739a99b8d745/page/U3qoD) 
 
 ===
+
 Quá trình dọn dẹp dữ liệu - Data Cleaning Process:
 
 1 - Định dạng các trường thông tin từ dataset - Define data fileds and context from the dataset 

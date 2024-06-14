@@ -8,7 +8,7 @@
 
 ===
 
-- Data Cleaning Process:
+Data Cleaning Process:
 
 1 - Define data fileds and context from the dataset 
 

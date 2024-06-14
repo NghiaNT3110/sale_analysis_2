@@ -4,6 +4,7 @@ Transformed Dataset Link (After transform): [Dataset Link](https://docs.google.c
 Dashboard Link: [Looker Studio Dashboard Link](https://lookerstudio.google.com/u/0/reporting/7126c72d-bc91-4c1e-a7ec-739a99b8d745/page/U3qoD) 
 ===
 Quá trình dọn dẹp dữ liệu - Data Cleaning Process:
+
 1 - Định dạng các trường thông tin từ dataset - Define data fileds and context from the dataset 
 
 2 - Điều chỉnh dữ liệu ngày và dữ liệu kinh doanh về đúng format (Cột B format thời gian lại thành YYYY - MM - DD + Cột L & M format lại thành đơn vị tiền tệ $ Đô la Mỹ) - Format date data & business data to the correct format (B column formatted to YYYY-MM-DD + L & M Columns formatted to $ US Dollar).

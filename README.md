@@ -1,4 +1,4 @@
-Project Case no 2: Sale Analysis
+# Project Case no 2: Sale Analysis
 
 Nguồn dữ liệu - Data source: datadad.io
 

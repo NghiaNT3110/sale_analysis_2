@@ -1,7 +1,7 @@
 Project Case no 2: Sale Analysis
 Nguồn dữ liệu - Data source: datadad.io
-Transformed Dataset Link (After transform): https://docs.google.com/spreadsheets/d/1aNPMBCc8HfnI0tA7yR0WR3jT2vYIoLhch4J_iWvUiZA/edit#gid=1956311044
-Dashboard Link: https://lookerstudio.google.com/u/0/reporting/7126c72d-bc91-4c1e-a7ec-739a99b8d745/page/U3qoD 
+Transformed Dataset Link (After transform): [Dataset Link](https://docs.google.com/spreadsheets/d/1aNPMBCc8HfnI0tA7yR0WR3jT2vYIoLhch4J_iWvUiZA/edit#gid=1956311044)
+Dashboard Link: [Looker Studio Dashboard Link](https://lookerstudio.google.com/u/0/reporting/7126c72d-bc91-4c1e-a7ec-739a99b8d745/page/U3qoD) 
 ===
 Quá trình dọn dẹp dữ liệu - Data Cleaning Process:
 1 - Định dạng các trường thông tin từ dataset - Define data fileds and context from the dataset 
